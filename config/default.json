@@ -12,9 +12,9 @@
 	"db_config" : {
 		"protocol" : "mysql",
 		"host" : "localhost",
-		"database" : "shop",
+		"database" : "shop_admin",
 		"user" : "root",
-		"password" : "123456",
+		"password" : "",
 		"port" : 3306
 	}
 }
